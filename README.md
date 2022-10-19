@@ -5,13 +5,13 @@
 
 - 🔭 I’m looking to for an **Internship opportunity**
 
-- 🌱 I’m currently learning **Python and Django Framework**
+- 🌱 I’m currently improving my **Python and Django Framework**
 
 - 📝 Here is my updated resume [link do resume](link do resume)
 
-- 📫 How to reach me **jguibarboza@gmail.com**
-
 - 📄 Also avaliable in portuguese [link resume em pt](link resume em pt)
+
+- 📫 How to reach me **jguibarboza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
