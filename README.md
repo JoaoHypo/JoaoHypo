@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 😁, I'm João "Hypo" Barboza</h1>
-<h3 align="center">A Astrophysics undergraduate student, passionate in tech</h3>
+<h3 align="center"><em>Physics student who has been motivated since childhood to discover, innovate and build. Many dreams and a thirst for change through technology and research. I look forward for a promising future and believe that it can only be achieved with collective work.</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoghypo&label=Profile%20views&color=0e75b6&style=flat" alt="joaoghypo" /> </p>
 
@@ -29,5 +29,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHypo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"> </h1>
-<h3 align="center"><em>Physics student who has been motivated since childhood to discover, innovate and build. Many dreams and a thirst for change through technology and research. I look forward for a promising future and believe that it can only be achieved with collective work.</em></h3>
 <h3 align="center">While There Is Life, There Is Hope</em></h3>
