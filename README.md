@@ -9,7 +9,7 @@
 
 - 📝 Here is my updated [*resume*⬇️](https://drive.google.com/uc?export=download&id=1MxGYqr0AHIfFHjrL4eq8mWoT4eaZ3KV7)
 
-- 📄 Also avaliable in [*portuguese*⬇️](https://drive.google.com/uc?export=download&id=1BNHLC1M8uLousB-nLq36JZ5jLR1KILdkg)
+- 📄 Also avaliable in [*portuguese*⬇️](https://drive.google.com/uc?export=download&id=1BNHLC1M8uLousB-nLq36JZ5jLR1KILdk)
 
 - 📫 How to reach me **jguibarboza@gmail.com**
 
