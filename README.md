@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoghypo&label=Profile%20views&color=0e75b6&style=flat" alt="joaoghypo" /> </p>
 
-- 🔭 I’m looking to for an **Internship opportunity**
+- 🔭 I’m looking for an **Internship opportunity**
 
 - 🌱 I’m currently improving my **Python and Django Framework**
 
 - 📝 Here is my updated [*resume*⬇️](https://drive.google.com/uc?export=download&id=1MxGYqr0AHIfFHjrL4eq8mWoT4eaZ3KV7)
 
-- 📄 Also avaliable in [*portuguese*⬇️](-todolink)
+- 📄 Also avaliable in [*portuguese*⬇️](https://drive.google.com/uc?export=download&id=1BNHLC1M8uLousB-nLq36JZ5jLR1KILdkg)
 
 - 📫 How to reach me **jguibarboza@gmail.com**
 
