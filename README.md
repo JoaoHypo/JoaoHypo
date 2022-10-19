@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gkuran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi There 😁, I'm João "Hypo" Barboza</h1>
 <h3 align="center">A Astrophysics undergraduate student, passionate in tech</h3>
 
