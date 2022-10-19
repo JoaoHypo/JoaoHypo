@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently improving my **Python and Django Framework**
 
-- 📝 [Here is my updated resume⬇️](https://drive.google.com/uc?export=download&id=1MxGYqr0AHIfFHjrL4eq8mWoT4eaZ3KV7)
+- 📝 Here is my updated [*resume*⬇️](https://drive.google.com/uc?export=download&id=1MxGYqr0AHIfFHjrL4eq8mWoT4eaZ3KV7)
 
-- 📄 Also avaliable in portuguese [link resume em pt](link resume em pt)
+- 📄 Also avaliable in [*portuguese*⬇️](-todolink)
 
 - 📫 How to reach me **jguibarboza@gmail.com**
 
