@@ -29,4 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHypo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"> </h1>
-<h3 align="center"><em>While There Is Life, There Is Hope</em></h3>
+<h3 align="center"><em>Physics student who has been motivated since childhood to discover, innovate and build. Many dreams and a thirst for change through technology and research. I look forward for a promising future and believe that it can only be achieved with collective work.</em></h3>
+<h3 align="center">While There Is Life, There Is Hope</em></h3>
