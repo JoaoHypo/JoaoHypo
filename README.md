@@ -11,7 +11,7 @@
 
 - 📄 Also avaliable in [*portuguese*⬇️](https://drive.google.com/uc?export=download&id=1BNHLC1M8uLousB-nLq36JZ5jLR1KILdk)
 
-- 📫 How to reach me **jguibarboza@gmail.com**
+- 📫 Best way to reach me: **jguibarboza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
