@@ -26,6 +26,15 @@
 
 <h1 align="center"> </h1>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<br>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=JoaoHypo&theme=sea&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+</a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHypo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoHypo&theme=sea&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
