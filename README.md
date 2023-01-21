@@ -26,7 +26,8 @@
 
 <h1 align="center"> </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHypo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoHypo&theme=sea&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHypo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=JoaoHypo&theme=sea&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</p>
 
 <h1 align="center"> </h1>
 <h3 align="center">While There Is Life, There Is Hope</em></h3>
