@@ -26,8 +26,12 @@
 
 <h1 align="center"> </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHypo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHypo&layout=compact" alt="Top Langs" />
+  </a>
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoaoHypo&theme=sea&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 
