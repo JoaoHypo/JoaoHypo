@@ -33,18 +33,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JoaoHypo&theme=github-light&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JoaoHypo&theme=sea&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHypo&layout=compact" alt="Top Langs" />
   </a>
