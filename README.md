@@ -32,7 +32,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoHypo&theme=jolly&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoHypo&theme=jolly)](https://git.io/streak-stats)
 
 
 <h1 align="center"> </h1>
