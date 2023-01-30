@@ -32,8 +32,11 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaoHypo&theme=jolly)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoHypo&theme=blueberry" alt="GitHub Streak" />
+  </a>
+</p>
 
 <h1 align="center"> </h1>
 <h3 align="center">While There Is Life, There Is Hope</em></h3>
