@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoHypo&theme=merko" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoHypo&theme=horizon" alt="GitHub Streak" />
   </a>
 </p>
 
