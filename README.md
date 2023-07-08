@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 😁, I'm João "Hypo" Barboza</h1>
+<h1 align="center">Hi There, I'm João "Hypo" Barboza</h1>
 <h3 align="center"><em>Physics and Computer Science student who has been motivated since childhood to discover, innovate and build. Many dreams and a thirst for change through technology and research. <br>I look forward for a promising future and believe that it can only be achieved with collective work.</em></h3>
 <h1 align="center"> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoghypo&label=Profile%20views&color=0e75b6&style=flat" alt="joaoghypo" /> </p>
