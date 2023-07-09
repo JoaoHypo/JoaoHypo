@@ -5,7 +5,7 @@
 
 - 🔭 Please **don’t hesitate to contact me!**
 
-- 🌱 I’m currently improving my **Java**
+- 🌱 I’m currently improving my **Java ☕**
 
 - 📝 Here is my updated [*resume*⬇️](https://drive.google.com/uc?export=download&id=1MxGYqr0AHIfFHjrL4eq8mWoT4eaZ3KV7)
 
