@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joaohypobarboza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaohypobarboza/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/joao hypo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="joao hypo" height="30" width="40" /></a>
 <a href="https://instagram.com/joaohypo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaohypo" height="30" width="40" /></a>
-<a href="https://discord.gg/Hypo#0469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hypo#0469" height="30" width="40" /></a>
+<a href="https://discord.gg/182642190009368579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="182642190009368579" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that i worked with:</h3>
