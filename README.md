@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm João "Hypo" Barboza</h1>
-<h3 align="center"><em>Started at Astrophysics, now Computer Engineering and Computer Science undergraduate student.<br>Many dreams and a thirst for change through technology and research.<br>I look forward for a promising future and believe that it can only be achieved with collective work.</em></h3>
+<h3 align="center"><em>Computer Engineering and Computer Science undergraduate student.<br>Many dreams and a thirst for change through technology and research.<br>I look forward for a promising future and believe that it can only be achieved with collective work.</em></h3>
 
 - 🔭 Please feel free to reach out to me. **Don’t hesitate to contact!**
 
