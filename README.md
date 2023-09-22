@@ -39,8 +39,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoHypo&theme="java-dark" alt="GitHub Streak" /> <!--merko-->
-
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoHypo&theme=java-dark" alt="GitHub Streak" /> <!--merko-->
   </a>
 </p>
 
